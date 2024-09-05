@@ -15,30 +15,14 @@ Secret : email sent secret key you can choose anything
 
 pass : your smtp password of your email
 
------
-
-```
-.env file sample
-
-PORT = 5000
-URI=<Mongo URL>
-Secret = "1234suraj"
-pass=<smtp password>
-CLOUDINARY_URL=<>
-CLOUDINARY_KEY=
-cloud_name=
-secret=<Cloudinary secret>
-
-```
-
-
+----
 
 ## Set-Up for this project
 
 step 1 : fork the repo and then clon in your local machine using the code
 
 ```bash 
-$ git clone https://github.com/surajjbhardwaj/twn 
+$ git clone https://https://github.com/devradheee/Town-of-books
  ```
 
 step 2 : change the present working directory to twn using the code
