@@ -22,7 +22,7 @@ pass : your smtp password of your email
 step 1 : fork the repo and then clon in your local machine using the code
 
 ```bash 
-$ git clone https://https://github.com/devradheee/Town-of-books
+$ git clone https://github.com/devradheee/Town-of-books
  ```
 
 step 2 : change the present working directory to twn using the code
